@@ -12,7 +12,7 @@
             "value": "f7ca9621-6ba3-4d52-a241-e0ed3ea6a78a"
         },
         "authorizations": {
-            "value": [
+            "value":
                 {
                   "principalId": "de96b4a1-4326-4008-bdd9-dc0b00b116dc",
                   "principalIdDisplayName": "MSSP Customer - Data Purge",
@@ -55,7 +55,6 @@
                       "39bc4728-0917-49c7-9d2c-d95423bc2eb4"
                     ]
                 }
-            ]
         }
     }
 }
