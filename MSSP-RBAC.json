@@ -3,13 +3,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "mspOfferName": {
-            "value": "<Company Name> Managed Security - Base Delegations"
+            "value": "Punch Cyber Managed Security - Base Delegations"
         },
         "mspOfferDescription": {
-            "value": "<Company Name> Managed Security - Base Delegations that allows fours tears of access to your tenant"
+            "value": "Punch Cyber Managed Security - Base Delegations that allows fours tears of access to your tenant"
         },
         "managedByTenantId": {
-            "value": "<Your TenantID"
+            "value": "f7ca9621-6ba3-4d52-a241-e0ed3ea6a78a"
         },
         "authorizations": {
             "value": [
