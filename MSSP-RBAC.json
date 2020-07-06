@@ -3,83 +3,83 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "mspOfferName": {
-            "value": "<Company> Managed Security - Base Delegations"
+            "value": "Punch Cyber Managed Security - Base Delegations"
         },
         "mspOfferDescription": {
-            "value": "<Company> Managed Security - Base Delegations that allows fours tears of access to your tenant"
+            "value": "Punch Cyber Managed Security - Base Delegations that allows fours tears of access to your tenant"
         },
         "managedByTenantId": {
-            "value": "<TenantID>"
+            "value": "f7ca9621-6ba3-4d52-a241-e0ed3ea6a78a"
         },
         "authorizations": {
             "value": [
                 {
-                    "principalId": "<Group 1 GUID>",
+                    "principalId": "de96b4a1-4326-4008-bdd9-dc0b00b116dc",
                     "principalIdDisplayName": "MSSP Customer - Data Purge",
                     "roleDefinitionId": "150f5e0c-0603-4f03-8c7f-cf70034c4e90"
                 },
                 {
-                    "principalId": "<Group 2 GUID>",
+                    "principalId": "58cec7a7-49c7-429e-93ac-244baeb52796",
                     "principalIdDisplayName": "MSSP Customer - Security Admins",
                     "roleDefinitionId": "ab8e14d6-4a74-4a29-9ba8-549422addade"
                 },
                 {
-                    "principalId": "<Group 2 GUID>",
+                    "principalId": "58cec7a7-49c7-429e-93ac-244baeb52796",
                     "principalIdDisplayName": "MSSP Customer - Security Admins",
                     "roleDefinitionId": "fb1c8493-542b-48eb-b624-b4c8fea62acd"
                 },
                 {
-                    "principalId": "<Group 2 GUID>",
+                    "principalId": "58cec7a7-49c7-429e-93ac-244baeb52796",
                     "principalIdDisplayName": "MSSP Customer - Security Admins",
                     "roleDefinitionId": "87a39d53-fc1b-424a-814c-f7e04687dc9e"
                 },
                 {
-                    "principalId": "<Group 2 GUID>",
+                    "principalId": "58cec7a7-49c7-429e-93ac-244baeb52796",
                     "principalIdDisplayName": "MSSP Customer - Security Admins",
                     "roleDefinitionId": "92aaf0da-9dab-42b6-94a3-d43ce8d16293"
                 },
                 {
-                    "principalId": "<Group 2 GUID>",
+                    "principalId": "58cec7a7-49c7-429e-93ac-244baeb52796",
                     "principalIdDisplayName": "MSSP Customer - Security Admins",
                     "roleDefinitionId": "17d1049b-9a84-46fb-8f53-869881c3d3ab"
                 },
                 {
-                    "principalId": "<Group 3 GUID>",
+                    "principalId": "dc5c0d9c-c47b-40dc-9857-c1550694369d",
                     "principalIdDisplayName": "MSSP Customer - Tier 3",
                     "roleDefinitionId": "ab8e14d6-4a74-4a29-9ba8-549422addade"
                 },
                 {
-                    "principalId": "<Group 3 GUID>",
+                    "principalId": "dc5c0d9c-c47b-40dc-9857-c1550694369d",
                     "principalIdDisplayName": "MSSP Customer - Tier 3",
                     "roleDefinitionId": "fb1c8493-542b-48eb-b624-b4c8fea62acd"
                 },
                 {
-                    "principalId": "<Group 3 GUID>",
+                    "principalId": "dc5c0d9c-c47b-40dc-9857-c1550694369d",
                     "principalIdDisplayName": "MSSP Customer - Tier 3",
                     "roleDefinitionId": "87a39d53-fc1b-424a-814c-f7e04687dc9e"
                 },
                 {
-                    "principalId": "<Group 4 GUID>",
+                    "principalId": "fdd4834f-ec8a-4420-aa1f-f69c2aa2a5c6",
                     "principalIdDisplayName": "MSSP Customer - Tier 2",
                     "roleDefinitionId": "ab8e14d6-4a74-4a29-9ba8-549422addade"
                 },
                 {
-                    "principalId": "<Group 4 GUID>",
+                    "principalId": "fdd4834f-ec8a-4420-aa1f-f69c2aa2a5c6",
                     "principalIdDisplayName": "MSSP Customer - Tier 2",
                     "roleDefinitionId": "39bc4728-0917-49c7-9d2c-d95423bc2eb4"
                 },
                 {
-                    "principalId": "<Group 4 GUID>",
+                    "principalId": "<fdd4834f-ec8a-4420-aa1f-f69c2aa2a5c6",
                     "principalIdDisplayName": "MSSP Customer - Tier 2",
                     "roleDefinitionId": "87a39d53-fc1b-424a-814c-f7e04687dc9e"
                 },
                 {
-                    "principalId": "<Group 5 GUID>",
+                    "principalId": "e0616243-530b-4237-9b3e-bf5e41375608",
                     "principalIdDisplayName": "MSSP Customer - Tier 1",
                     "roleDefinitionId": "3e150937-b8fe-4cfb-8069-0eaf05ecd056"
                 },
                 {
-                    "principalId": "<Group 5 GUID>",
+                    "principalId": "e0616243-530b-4237-9b3e-bf5e41375608",
                     "principalIdDisplayName": "MSSP Customer - Tier 1",
                     "roleDefinitionId": "39bc4728-0917-49c7-9d2c-d95423bc2eb4"
                 }
