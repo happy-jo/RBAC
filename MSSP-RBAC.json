@@ -69,7 +69,7 @@
                     "roleDefinitionId": "39bc4728-0917-49c7-9d2c-d95423bc2eb4"
                 },
                 {
-                    "principalId": "<fdd4834f-ec8a-4420-aa1f-f69c2aa2a5c6",
+                    "principalId": "fdd4834f-ec8a-4420-aa1f-f69c2aa2a5c6",
                     "principalIdDisplayName": "MSSP Customer - Tier 2",
                     "roleDefinitionId": "87a39d53-fc1b-424a-814c-f7e04687dc9e"
                 },
